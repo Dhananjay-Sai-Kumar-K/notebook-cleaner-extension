@@ -20,7 +20,7 @@ A Chrome Extension that enables **bulk deletion of notebooks** with real-time pr
 
 ## 🎬 Demo
 
-> *(Add a GIF here — highly recommended)*
+<img width="1000" height="852" alt="Animation" src="https://github.com/user-attachments/assets/c1432509-2595-4050-baea-1ef7998a5e4f" />
 
 ```
 Before → Click Start → Auto Delete → Clean Workspace
@@ -31,12 +31,12 @@ Before → Click Start → Auto Delete → Clean Workspace
 ## 📸 Screenshots
 
 ### 🔹 Before
+<img width="1095" height="594" alt="image" src="https://github.com/user-attachments/assets/25052ce4-772c-47a7-90b5-465f2bdd26a7" />
 
-*(Add screenshot of cluttered notebooks)*
 
 ### 🔹 After
 
-*(Add screenshot of clean workspace)*
+<img width="1919" height="907" alt="Screenshot 2026-04-23 123243" src="https://github.com/user-attachments/assets/249ee650-4a51-4af3-b5e8-329c3017767e" />
 
 ---
 
