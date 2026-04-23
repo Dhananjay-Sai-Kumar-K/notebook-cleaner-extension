@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Notebook Cleaner",
+  "version": "1.0",
+  "description": "Bulk delete notebooks with UI controls",
+  "permissions": ["scripting", "activeTab", "storage"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}

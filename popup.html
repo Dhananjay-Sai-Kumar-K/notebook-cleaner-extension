@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Notebook Cleaner</h2>
+
+    <div class="stats">
+      <p>Deleted: <span id="deleted">0</span></p>
+      <p>Status: <span id="status">Idle</span></p>
+    </div>
+
+    <div class="progress-bar">
+      <div id="progress"></div>
+    </div>
+
+    <div class="controls">
+      <button id="start">Start</button>
+      <button id="pause">Pause</button>
+      <button id="resume">Resume</button>
+      <button id="stop">Stop</button>
+    </div>
+
+    <div class="log" id="log"></div>
+
+    <button id="toggleTheme">🌙 Toggle Theme</button>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
